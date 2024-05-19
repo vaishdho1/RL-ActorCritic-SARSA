@@ -1,6 +1,6 @@
  # RL-Algorithms: Actor-Critic & n-step SARSA
 ## Introduction
-This project implements two reinforcement learning algorithms: One-step Actor-Critic and Episodic Semi-Gradient n-step SARSA. The algorithms are tested on several environments from OpenAI's Gym library, including Cartpole and Acrobot, as well as a custom environment, 687-Gridworld.
+This project implements two reinforcement learning algorithms: One-step Actor-Critic and Episodic Semi-Gradient n-step SARSA. The algorithms are tested on Cartpole and Acrobot, as well as a custom environment, 687-Gridworld from OpenAI's Gym library,
 
 ## Algorithms
 
